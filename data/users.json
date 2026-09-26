@@ -1,0 +1,29 @@
+[
+  {
+    "username": "shreya",
+    "role": "security_analyst",
+    "permissions": [
+      "read_logs",
+      "view_reports",
+      "investigate_alerts"
+    ]
+  },
+  {
+    "username": "admin",
+    "role": "administrator",
+    "permissions": [
+      "read_logs",
+      "view_reports",
+      "investigate_alerts",
+      "manage_users",
+      "change_permissions"
+    ]
+  },
+  {
+    "username": "guest",
+    "role": "guest",
+    "permissions": [
+      "view_reports"
+    ]
+  }
+]
