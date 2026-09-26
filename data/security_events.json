@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-09-26T09:15:22Z",
+    "user": "shreya",
+    "source_ip": "192.168.1.25",
+    "event": "login_success",
+    "resource": "cloud-console",
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-09-26T09:18:41Z",
+    "user": "admin",
+    "source_ip": "185.220.101.45",
+    "event": "login_failed",
+    "resource": "cloud-console",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2026-09-26T09:19:03Z",
+    "user": "admin",
+    "source_ip": "185.220.101.45",
+    "event": "login_failed",
+    "resource": "cloud-console",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2026-09-26T09:19:27Z",
+    "user": "admin",
+    "source_ip": "185.220.101.45",
+    "event": "login_failed",
+    "resource": "cloud-console",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2026-09-26T09:21:12Z",
+    "user": "admin",
+    "source_ip": "185.220.101.45",
+    "event": "permission_change",
+    "resource": "admin-role",
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-09-26T09:25:44Z",
+    "user": "shreya",
+    "source_ip": "192.168.1.25",
+    "event": "file_access",
+    "resource": "security-report",
+    "status": "success"
+  }
+]
